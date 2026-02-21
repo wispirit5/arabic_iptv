@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="films", KPop Demon Hunters
+#EXTVLCOPT:network-caching=1000
+https://www.cineby.gd/movie/803796
 
 #EXTINF:0 group-title="MAROC",alaoula
 #EXTVLCOPT:network-caching=1000
@@ -707,3 +710,4 @@ https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 #EXTINF:0 group-title="RADIO",Watar Radio (1080p)
 #EXTVLCOPT:network-caching=1000
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+

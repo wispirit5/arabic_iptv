@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="films", KPop Demon Hunters
-#EXTVLCOPT:network-caching=1000
-https://usa7.shegu.net/free/p1/movie_mp4_h264/2025/7/3/71383/movie.71383.2025.1080p.H264.20250809171828.mp4?KEY1=eUlAzXgWYQa7IGm5OptW7g&KEY2=1771707470&KEY4=world&KEY5=KPop.Demon.Hunters.2025.2160p.HDR10.WEBRip.6CH.x265.HEVC-RW.mkv&KEY7=febbox_file_download_v2&KEY8=0
 
 #EXTINF:0 group-title="MAROC",alaoula
 #EXTVLCOPT:network-caching=1000
@@ -710,5 +707,6 @@ https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 #EXTINF:0 group-title="RADIO",Watar Radio (1080p)
 #EXTVLCOPT:network-caching=1000
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+
 
 

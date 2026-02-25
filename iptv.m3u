@@ -4,6 +4,10 @@
 #EXTVLCOPT:network-caching=1000
 https://egy40ssxdffdvwerwe432vxcvxcvbcx321scvxv45cdsw1dfdsfsd.visitmycityfor365days.online/hls2/02/00112/ei9c8cf3812z_,l,n,h,.urlset/master.m3u8?t=OKrbeU3My_WXg_VcNrktvWwQRGn_qVF__pDajgNVEhs&s=1771775877&e=43200&f=560932&i=0.0&sp=0
 
+#EXTINF:0 group-title="FILM", GOAT
+#EXTVLCOPT:network-caching=1000
+https://rrr.data30vault.site/pqqp/c5/h6a90f70b8d237f94866b6cfc2b6349bddedc7dc1328a917aa722397528fd2caef644899eb0ee7bdfc502a43593daa804784333152a980ee20684d39409fc5cfe4c1a/list,Ktm0Vt9-cJyXbGG_O3gV_5vGK-kpiQ.m3u8
+
 #EXTINF:0 group-title="MAROC",alaoula
 #EXTVLCOPT:network-caching=1000
 https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
@@ -711,6 +715,7 @@ https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
 #EXTINF:0 group-title="RADIO",Watar Radio (1080p)
 #EXTVLCOPT:network-caching=1000
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+
 
 
 
